@@ -32,8 +32,9 @@ button {
   padding: 1rem 2rem;
   margin: 0;
   text-decoration: none;
-  background: #414141;
-  color: #ffffff;
+  background: #dbdbdb;
+  border: 1px black solid;
+  color: #000000;
   font-family: inherit;
   font-size: 1.6rem;
   cursor: pointer;
@@ -45,7 +46,7 @@ button {
 
 button:hover,
 button:focus {
-  background: #a2272d;
+  background: #ff5961;
 }
 
 button:focus {
